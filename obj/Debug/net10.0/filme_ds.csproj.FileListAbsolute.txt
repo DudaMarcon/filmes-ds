@@ -1,0 +1,14 @@
+C:\Users\Aluno.FATECITU\Desktop\filme_ds\bin\Debug\net10.0\filme_ds.exe
+C:\Users\Aluno.FATECITU\Desktop\filme_ds\bin\Debug\net10.0\filme_ds.deps.json
+C:\Users\Aluno.FATECITU\Desktop\filme_ds\bin\Debug\net10.0\filme_ds.runtimeconfig.json
+C:\Users\Aluno.FATECITU\Desktop\filme_ds\bin\Debug\net10.0\filme_ds.dll
+C:\Users\Aluno.FATECITU\Desktop\filme_ds\bin\Debug\net10.0\filme_ds.pdb
+C:\Users\Aluno.FATECITU\Desktop\filme_ds\obj\Debug\net10.0\filme_ds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno.FATECITU\Desktop\filme_ds\obj\Debug\net10.0\filme_ds.AssemblyInfoInputs.cache
+C:\Users\Aluno.FATECITU\Desktop\filme_ds\obj\Debug\net10.0\filme_ds.AssemblyInfo.cs
+C:\Users\Aluno.FATECITU\Desktop\filme_ds\obj\Debug\net10.0\filme_ds.csproj.CoreCompileInputs.cache
+C:\Users\Aluno.FATECITU\Desktop\filme_ds\obj\Debug\net10.0\filme_ds.dll
+C:\Users\Aluno.FATECITU\Desktop\filme_ds\obj\Debug\net10.0\refint\filme_ds.dll
+C:\Users\Aluno.FATECITU\Desktop\filme_ds\obj\Debug\net10.0\filme_ds.pdb
+C:\Users\Aluno.FATECITU\Desktop\filme_ds\obj\Debug\net10.0\filme_ds.genruntimeconfig.cache
+C:\Users\Aluno.FATECITU\Desktop\filme_ds\obj\Debug\net10.0\ref\filme_ds.dll
